@@ -1,4 +1,4 @@
-# Employee Performance Analysis 🚀
+# Employee Performance, Exit & Hiring Rate Analysis 🚀
 
 ## 📌 Project Overview
 This project analyzes employee performance, engagement, and training using **SQL and Power BI**.
